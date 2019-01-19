@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WebsocketDemoApplication",
+      "request": "launch",
+      "mainClass": "com.example.websocketdemo.WebsocketDemoApplication",
+      "projectName": "websocket-demo"
+    }
+  ]
+}
